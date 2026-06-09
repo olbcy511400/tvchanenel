@@ -1,0 +1,42 @@
+[
+  {
+    "name": "新聞台",
+    "channel": [
+      {
+        "name": "TVBS新聞台",
+        "urls": [
+          "http://cdn1.example.com/tvbs.m3u8",
+          "http://cdn2.example.com/tvbs.m3u8"
+        ],
+        "number": "56",
+        "logo": "https://example.com/logo/tvbs.png",
+        "tvgId": "TVBS",
+        "ua": "Mozilla/5.0",
+        "catchup": {
+          "type": "append",
+          "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+        }
+      }
+    ]
+  },
+  {
+    "name": "加密頻道",
+    "pass": "secretpass",
+    "channel": [
+      {
+        "name": "Premium",
+        "urls": [
+          "http://example.com/premium.mpd"
+        ],
+        "format": "application/dash+xml",
+        "drm": {
+          "type": "widevine",
+          "key": "https://license.example.com/widevine",
+          "header": {
+            "User-Agent": "Mozilla/5.0"
+          }
+        }
+      }
+    ]
+  }
+]
