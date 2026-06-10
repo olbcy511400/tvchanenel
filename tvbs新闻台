@@ -1,25 +1,18 @@
   "lives": [
-  {
-    "name": "新聞台",
-    "channel": [
-      {
-        "name": "TVBS新聞台",
-        "urls": [
-          "http://mytv.cdn.loc.cc/o12.php?id=fct",
-          "http://php.jdshipin.com/TVOD/iptv.php?id=fct3",
-          "http://o11.163189.xyz/stream/tvb/fct/",
-          "http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3"
-        ],
-        "number": "56",
-        "logo": "https://live.fanmingming.com/tv/翡翠台.png",
-        "tvgId": "TVBS",
-        "ua": "Mozilla/5.0",
-        "catchup": {
-          "type": "append",
-          "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-        }
-      }
-    ]
-  }
-]
-
+    {
+      "name": "初秋语",
+      "type": 0,
+      "url": "./list.txt",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Ray",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
