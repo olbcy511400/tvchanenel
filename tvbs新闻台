@@ -2,7 +2,7 @@
     {
       "name": "初秋语",
       "type": 0,
-      "url": "./list.txt",
+      "url": "https://raw.githubusercontent.com/olbcy511400/tvchanenel/refs/heads/main/list",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
