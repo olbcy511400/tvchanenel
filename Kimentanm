@@ -77,7 +77,9 @@ https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 http://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
