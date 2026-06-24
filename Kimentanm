@@ -78,6 +78,10 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",TVB Plus 
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",TVB Plus 
+http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",NOW爆谷台
 https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",Now星影台
