@@ -82,6 +82,16 @@ https://mytv.cdn.loc.cc/o12.php?id=fct
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",TVB Plus 
 http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",千禧经典台
+http://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",千禧经典台
+https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",千禧经典台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",千禧经典台
+http://74.91.26.218:82/live/tvbjd.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",NOW爆谷台
 https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",Now星影台
