@@ -63,9 +63,9 @@ http://101.35.240.114:88/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 http://101.35.240.114:88/live.php?id=翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
