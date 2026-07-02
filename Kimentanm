@@ -82,6 +82,16 @@ https://mytv.cdn.loc.cc/o12.php?id=fct
 http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",TVB Plus 
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",TVB Plus 
