@@ -65,6 +65,8 @@ http://101.35.240.114:88/live.php?id=重温经典
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
 http://101.35.240.114:88/live.php?id=翡翠台
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
+https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
 http://r.jdshipin.com/qrfbg
