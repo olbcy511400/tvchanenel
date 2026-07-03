@@ -62,26 +62,6 @@ http://101.35.240.114:88/live.php?id=CHC影迷电影
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
 http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
