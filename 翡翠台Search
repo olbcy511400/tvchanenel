@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 ,Unknown_1
-http://49.234.31.101:7011/
+http://183.149.32.231:4343/
 #EXTINF:-1 ,Unknown_2
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 ,Unknown_3
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-#EXTINF:-1 ,Unknown_4
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-#EXTINF:-1 ,Unknown_5
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
-#EXTINF:-1 ,Unknown_6
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 ,Unknown_7
+#EXTINF:-1 ,Unknown_3
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 ,Unknown_4
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 ,Unknown_5
 http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 ,Unknown_6
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+#EXTINF:-1 ,Unknown_7
+https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 #EXTINF:-1 ,Unknown_8
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 ,Unknown_9
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,Unknown_9
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 ,Unknown_10
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 ,Unknown_11
@@ -25,184 +25,268 @@ http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 ,Unknown_13
 https://cdn.qd.je/163189.php?id=fct
+#EXTINF:-1 ,Unknown_14
+http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 ,Unknown_15
-http://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 ,Unknown_16
-http://o11.163189.xyz/stream/tvb/fct/
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 ,Unknown_17
-https://live.catvod.com/iptv.php?id=fctsub
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 ,Unknown_18
+http://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 ,Unknown_19
-http://o11.163189.xyz/stream/live/jade/
+https://cdn.qd.je/163189.php?id=tvbd
 #EXTINF:-1 ,Unknown_20
-https://o11.163189.xyz/stream/live/jade/
+http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 ,Unknown_21
-https://cdn.qd.je/163189.php?id=jade
+http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 ,Unknown_22
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
+http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 ,Unknown_23
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 ,Unknown_24
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+https://live.catvod.com/iptv.php?id=fctsub
 #EXTINF:-1 ,Unknown_25
-https://o11.163189.xyz/stream/live/hlt/
+http://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 ,Unknown_26
-http://112.92.128.71:9003/hls/53/index.m3u8
+https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 ,Unknown_27
-https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
+https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 ,Unknown_28
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 ,Unknown_29
-https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 ,Unknown_30
-http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 ,Unknown_31
-http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
+https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 ,Unknown_32
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 ,Unknown_33
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://198.16.100.186:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 ,Unknown_34
-https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
+http://www.namewee.xyz/gudou.php?id=1350
 #EXTINF:-1 ,Unknown_35
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
+http://112.92.128.71:9003/hls/53/index.m3u8
 #EXTINF:-1 ,Unknown_36
-https://pixman.passwdwork.cc.cd/proxy/57f2ebcfe2785671.m3u8
+https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
 #EXTINF:-1 ,Unknown_37
-https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
+https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
 #EXTINF:-1 ,Unknown_38
-https://hls.iill.top/api/TVB-Jade/index.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 ,Unknown_39
-http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
 #EXTINF:-1 ,Unknown_40
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
 #EXTINF:-1 ,Unknown_41
-http://php.jdshipin.com/smt.php?id=jade_twn
+http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
 #EXTINF:-1 ,Unknown_42
-http://hls.168.us.kg/u/81/master.m3u8
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 ,Unknown_43
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 ,Unknown_44
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
 #EXTINF:-1 ,Unknown_45
-http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,Unknown_46
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+https://pixman.passwdwork.cc.cd/proxy/57f2ebcfe2785671.m3u8
 #EXTINF:-1 ,Unknown_47
-http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
+https://hls.iill.top/api/TVB-Jade/index.m3u8
 #EXTINF:-1 ,Unknown_48
-http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
+https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 #EXTINF:-1 ,Unknown_49
-http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 ,Unknown_50
-https://live.catvod.com/live.php?id=Jade_xue
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 ,Unknown_51
-https://live.catvod.com/iptv.php?id=fct002
+http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 ,Unknown_52
-https://live.catvod.com/iptv.php?id=fct003
+http://hls.168.us.kg/u/81/master.m3u8
 #EXTINF:-1 ,Unknown_53
-https://live.catvod.com/iptv.php?id=fct004
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 ,Unknown_54
-https://live.catvod.com/live.php?id=jade_twn
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 ,Unknown_55
-http://smart.cityq.xyz:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&ct=20075&tsum=cd432288b12be8775123af37f179d76d
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 #EXTINF:-1 ,Unknown_56
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 ,Unknown_57
-http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
+http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
 #EXTINF:-1 ,Unknown_58
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
 #EXTINF:-1 ,Unknown_59
-https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 ,Unknown_60
-http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+https://live.catvod.com/live.php?id=Jade_xue
 #EXTINF:-1 ,Unknown_61
-https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+https://live.catvod.com/iptv.php?id=fct002
 #EXTINF:-1 ,Unknown_62
-http://ali.hlspull.yximgs.com/live/awei_jade.flv
+https://live.catvod.com/iptv.php?id=fct003
 #EXTINF:-1 ,Unknown_63
-https://ali.hlspull.yximgs.com/live/167_jade.flv
+https://live.catvod.com/iptv.php?id=fct004
 #EXTINF:-1 ,Unknown_64
-http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+https://live.catvod.com/live.php?id=jade_twn
 #EXTINF:-1 ,Unknown_65
-http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://smart.cityq.xyz:8278/jade_twn/playlist.m3u8?tid=MAFA8142395181423951&ct=20075&tsum=cd432288b12be8775123af37f179d76d
 #EXTINF:-1 ,Unknown_66
-https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.ctv
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 #EXTINF:-1 ,Unknown_67
-https://cdn3.163189.xyz/live/fct/stream.m3u8
+http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
 #EXTINF:-1 ,Unknown_68
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 ,Unknown_69
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
+https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 #EXTINF:-1 ,Unknown_70
-http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11595587&tsum=de7a87078bac86f675cc0820dc0eb83a
+http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 ,Unknown_71
-http://ali.hlspull.yximgs.com/live/f3f6470b68746656e9f1c97936613628.flv
+https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 #EXTINF:-1 ,Unknown_72
-http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476927.m3u8
+http://ali.hlspull.yximgs.com/live/awei_jade.flv
 #EXTINF:-1 ,Unknown_73
-http://61.163.58.154:1321/ms/IPTV.php?id=126
+https://ali.hlspull.yximgs.com/live/167_jade.flv
 #EXTINF:-1 ,Unknown_74
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571187
+http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+#EXTINF:-1 ,Unknown_75
+http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 ,Unknown_76
+https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60cf803082470.ctv
 #EXTINF:-1 ,Unknown_77
-https://live.tvfix.org/live/jade/index.m3u8
+https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 ,Unknown_78
-http://114.132.184.239:6080/channel/nf8e56e9/index.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,Unknown_79
-https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
+#EXTINF:-1 ,Unknown_80
+http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11595587&tsum=de7a87078bac86f675cc0820dc0eb83a
+#EXTINF:-1 ,Unknown_81
+http://ali.hlspull.yximgs.com/live/f3f6470b68746656e9f1c97936613628.flv
 #EXTINF:-1 ,Unknown_82
-http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 ,Unknown_85
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 ,Unknown_86
-https://live.catvod.com/iptv.php?id=huali02
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476927.m3u8
+#EXTINF:-1 ,Unknown_83
+http://61.163.58.154:1321/ms/IPTV.php?id=126
+#EXTINF:-1 ,Unknown_84
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571187
 #EXTINF:-1 ,Unknown_87
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-#EXTINF:-1 ,Unknown_88
-http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-#EXTINF:-1 ,Unknown_89
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 ,Unknown_90
-http://php.jdshipin.com/smt.php?id=Tvbjade
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 ,Unknown_91
-http://php.jdshipin.com:8880/smt.php?id=Wlt
+http://v2h.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 ,Unknown_92
-http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 ,Unknown_93
-http://smart.cityq.xyz:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
-#EXTINF:-1 ,Unknown_94
-http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=798dd508a520591696de2b87ed95b3c2
+https://live.catvod.com/iptv.php?id=fct4k01
 #EXTINF:-1 ,Unknown_95
-http://cdn9.veryfast.filegear-sg.me/live/jade/stream.m3u8
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1 ,Unknown_96
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+https://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 ,Unknown_97
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 ,Unknown_98
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 ,Unknown_99
-http://67.220.71.199:2347/livehttpplay?channel_id=20127
+https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 ,Unknown_100
-http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
 #EXTINF:-1 ,Unknown_101
-http://67.220.71.199:2347/livehttpplay?channel_id=20124
+http://rihou.cc:555/tv/[SX]无线翡翠
 #EXTINF:-1 ,Unknown_102
-http://67.220.71.199:2347/livehttpplay?channel_id=30025
+https://live.tvfix.org/live/jade/index.m3u8
 #EXTINF:-1 ,Unknown_103
-http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
-#EXTINF:-1 ,Unknown_104
-https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+http://rihou.cc:555/tv/[Mt]无线翡翠
 #EXTINF:-1 ,Unknown_105
-http://47.242.63.189/livehttpplay?channel_id=13027
+http://php.jdshipin.com:8880/smt.php?id=Wlt
 #EXTINF:-1 ,Unknown_106
-http://208.87.242.79/livehttpplay?channel_id=13027
+http://rihou.cc:555/tv/[Bx]无线翡翠
 #EXTINF:-1 ,Unknown_107
-http://67.220.71.199:2347/livehttpplay?channel_id=13027
+https://cdn6.101.qzz.io/163189/fct
 #EXTINF:-1 ,Unknown_108
+http://114.132.184.239:6080/channel/nf8e56e9/index.m3u8
+#EXTINF:-1 ,Unknown_109
+http://rihou.cc:555/tv/[Pd]无线翡翠
+#EXTINF:-1 ,Unknown_110
+https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
+#EXTINF:-1 ,Unknown_114
+http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1 ,Unknown_115
+http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 ,Unknown_116
+http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 ,Unknown_118
+https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
+#EXTINF:-1 ,Unknown_119
+https://ali.hlspull.yximgs.com/live/9ccc4b82fa04eb43a2b3b1b6322632e4.flv
+#EXTINF:-1 ,Unknown_121
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 ,Unknown_122
+https://live.catvod.com/iptv.php?id=huali02
+#EXTINF:-1 ,Unknown_123
+http://rihou.cc:555/tv/[PL]无线翡高
+#EXTINF:-1 ,Unknown_124
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 ,Unknown_125
+http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 ,Unknown_126
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 ,Unknown_127
+http://rihou.cc:555/tv/[PL]无线翡翠
+#EXTINF:-1 ,Unknown_128
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 ,Unknown_129
+https://live.catvod.com/iptv.php?id=tvbd01
+#EXTINF:-1 ,Unknown_130
+http://v2h.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 ,Unknown_131
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 ,Unknown_133
+http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 ,Unknown_134
+http://rihou.cc:555/tv/[PL]无线翡标
+#EXTINF:-1 ,Unknown_135
+http://smart.cityq.xyz:8278/Wlt/playlist.m3u8?tid=MFDF9126586991265869&ct=20241&tsum=951b446ed2eee9f5ae67fbc4a0fb8a3d
+#EXTINF:-1 ,Unknown_136
+http://smart.cityq.xyz:8278/Tvbjade/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=798dd508a520591696de2b87ed95b3c2
+#EXTINF:-1 ,Unknown_137
+http://cdn9.veryfast.filegear-sg.me/live/jade/stream.m3u8
+#EXTINF:-1 ,Unknown_138
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+#EXTINF:-1 ,Unknown_139
+http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 ,Unknown_140
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 ,Unknown_141
+http://67.220.71.199:2347/livehttpplay?channel_id=20127
+#EXTINF:-1 ,Unknown_142
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 ,Unknown_143
+http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+#EXTINF:-1 ,Unknown_144
+http://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 ,Unknown_145
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 ,Unknown_146
+https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 ,Unknown_147
+https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 ,Unknown_148
+https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 ,Unknown_149
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 ,Unknown_150
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 ,Unknown_151
+http://67.220.71.199:2347/livehttpplay?channel_id=20124
+#EXTINF:-1 ,Unknown_152
+http://67.220.71.199:2347/livehttpplay?channel_id=30025
+#EXTINF:-1 ,Unknown_153
+http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
+#EXTINF:-1 ,Unknown_154
+https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+#EXTINF:-1 ,Unknown_155
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 ,Unknown_157
+http://47.242.63.189/livehttpplay?channel_id=13027
+#EXTINF:-1 ,Unknown_158
+http://208.87.242.79/livehttpplay?channel_id=13027
+#EXTINF:-1 ,Unknown_159
+http://67.220.71.199:2347/livehttpplay?channel_id=13027
+#EXTINF:-1 ,Unknown_160
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 ,Unknown_1
+http://49.234.31.101:7011/
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台1
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台4
-https://cdn6.101.qzz.io/163189/fct
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台6
 https://stream1.freetv.fun/68acc033476cd4c2ffeb3e90a756f023595401dbe5fc539de8a888d7f1f5abef.ctv
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台7
@@ -229,14 +313,6 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 group-title="港澳台",Unknown_20  group-title="港澳台"
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-#EXTINF:-1 group-title="港澳台",Unknown_26  group-title="港澳台"
-https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
-#EXTINF:-1 group-title="港澳台",Unknown_27  group-title="港澳台"
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 ,Unknown_1
-http://183.149.32.231:4343/
 #EXTINF:-1 ,Unknown_111
 http://101.35.240.114:88/live.php?id=翡翠台
 #EXTINF:-1 ,Unknown_120
@@ -251,35 +327,5 @@ https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6c
 https://stream1.freetv.fun/865b4170a3a3115db3936fcb9aee58e03b10f5655c081ba4ee256243bcc265ce.ctv
 #EXTINF:-1 ,Unknown_142
 https://t.freetv.fun/live/fei-cui-tai-bei-mei-ban.php
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="卫视IPV4",翡翠台
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+#EXTINF:-1 group-title="卫视IPV4",翡翠台
 http://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
-http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
