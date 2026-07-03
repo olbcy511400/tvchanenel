@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Unknown_2
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,Unknown_2
+https://live.tvfix.org/live/jade/index.m3u8
 #EXTINF:-1 ,Unknown_3
 http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 ,Unknown_4
