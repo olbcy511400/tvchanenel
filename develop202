@@ -138,6 +138,8 @@ http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
 http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="TVB SUPER" tvg-name="TVB SUPER" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB SUPER 
+http://67.220.71.199:2347/livehttpplay?channel_id=13027
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="广东地区",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="广东地区",千禧经典台
