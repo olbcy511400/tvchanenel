@@ -27,8 +27,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
 #EXTINF:-1 ,Unknown_36
 https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
-#EXTINF:-1 ,Unknown_41
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 ,Unknown_47
 https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 #EXTINF:-1 ,Unknown_65
@@ -61,3 +59,7 @@ https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e00
 https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
 #EXTINF:-1 ,Unknown_124
 https://stream1.freetv.fun/865b4170a3a3115db3936fcb9aee58e03b10f5655c081ba4ee256243bcc265ce.ctv
+#EXTINF:-1 ,Unknown_7
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+#EXTINF:-1 ,Unknown_8
+http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
