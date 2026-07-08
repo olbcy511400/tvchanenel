@@ -148,6 +148,9 @@ https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6c
 https://stream1.freetv.fun/fei-cui-5.ctv
 #EXTINF:-1 tvg-id="翡翠台（天线免流量）" tvg-name="翡翠台（天线免流量）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（天线免流量）
 https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
+#EXTINF:-1 tvg-id="翡翠台（天线免流量）" tvg-name="翡翠台（天线免流量）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（天线免流量）
+https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
