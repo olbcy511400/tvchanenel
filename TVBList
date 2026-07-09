@@ -79,3 +79,5 @@ https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed03
 https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
 #EXTINF:-1 ,Unknown_124
 https://stream1.freetv.fun/865b4170a3a3115db3936fcb9aee58e03b10f5655c081ba4ee256243bcc265ce.ctv
+#EXTINF:-1 ,Unknown_129
+http://113.64.147.147:8081/hls/25/index.m3u8
