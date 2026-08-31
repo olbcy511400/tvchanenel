@@ -295,6 +295,10 @@ https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2
 
 
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/fct/
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
@@ -303,7 +307,9 @@ http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
-https://10.fast.hidns.vip/163189/fct/
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://rihou.cc:555/tv/[Pd]无线翡翠
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
@@ -313,31 +319,47 @@ https://cdn3.indevs.in/stream/live/hlt/
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn6.cc.cd/163189/hlfct
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/jade/
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fct
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn6.cc.cd/163189/fct
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://221.179.116.213:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn.qd.je/163189.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/hlfct
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 https://cdn6.cc.cd/163189/jade
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/jade
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://67.220.71.199:2347/livehttpplay?channel_id=20124
+#EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
@@ -347,8 +369,6 @@ http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台（新线路）" tvg-name="翡翠台（新线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（新线路）
-http://r.jdshipin.com/n90gt
-
 
 
 
