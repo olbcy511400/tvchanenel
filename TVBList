@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,Unknown_2
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 ,Unknown_3
+https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 ,Unknown_4
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 ,Unknown_5
@@ -25,14 +29,18 @@ https://cdn6.cc.cd/163189/tvbd
 https://cdn3.indevs.in/stream/live/hlt/
 #EXTINF:-1 ,Unknown_19
 https://cdn6.cc.cd/163189/hlfct
-#EXTINF:-1 ,Unknown_22
-http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 ,Unknown_20
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/tvbd
+#EXTINF:-1 ,Unknown_23
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 ,Unknown_24
 https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 ,Unknown_26
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 ,Unknown_30
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 ,Unknown_33
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fct
 #EXTINF:-1 ,Unknown_35
 https://cdn6.cc.cd/163189/fct
 #EXTINF:-1 ,Unknown_36
@@ -59,16 +67,24 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,Unknown_95
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 ,Unknown_99
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 ,Unknown_111
 http://rihou.cc:555/tv/[SX]无线翡翠
 #EXTINF:-1 ,Unknown_113
 http://rihou.cc:555/tv/[Mt]无线翡翠
 #EXTINF:-1 ,Unknown_116
 http://rihou.cc:555/tv/[Bx]无线翡翠
+#EXTINF:-1 ,Unknown_129
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/hlfct
 #EXTINF:-1 ,Unknown_130
 https://cdn6.cc.cd/163189/jade
 #EXTINF:-1 ,Unknown_131
 http://rihou.cc:555/tv/[PL]无线翡高
+#EXTINF:-1 ,Unknown_132
+https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 ,Unknown_133
+https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/jade
 #EXTINF:-1 ,Unknown_138
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 ,Unknown_142
