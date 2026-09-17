@@ -1,17 +1,39 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-https://cdn.qd.je/163189.php?id=viu
-#EXTINF:-1 ,Unknown_11
+#EXTINF:-1 ,Unknown_3
+https://10.fast.hidns.vip/163189/viu/
+#EXTINF:-1 ,Unknown_4
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 ,Unknown_5
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 ,Unknown_10
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
+#EXTINF:-1 ,Unknown_11
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 ,Unknown_14
-https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
-#EXTINF:-1 ,Unknown_15
-https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
+https://cdn.123.rr.kg/163189/viu
+#EXTINF:-1 ,Unknown_24
+https://live.catvod.com/live.php?id=viu1_twn
+#EXTINF:-1 ,Unknown_31
+https://live.catvod.com/live.php?id=viusix_twn
 #EXTINF:-1 ,Unknown_32
-https://cdn.qd.je/163189.php?id=viu6
-#EXTINF:-1 ,Unknown_42
-http://67.220.71.199:2347/livehttpplay?channel_id=30032
+http://cdn10.123.rr.kg/163189/viu6/
+#EXTINF:-1 ,Unknown_33
+https://live.catvod.com/iptv.php?id=viutv02
+#EXTINF:-1 ,Unknown_46
+https://10.fast.hidns.vip/163189/viu6/
 #EXTINF:-1 ,Unknown_47
-https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
-#EXTINF:-1 ,Unknown_48
-http://67.220.71.199:2347/livehttpplay?channel_id=20131
+https://cdn.qd.je/163189.php?id=viu6
+#EXTINF:-1 ,Unknown_56
+http://rihou.cc:555/tv/[PL]VIUTV粤
+#EXTINF:-1 ,Unknown_57
+http://rihou.cc:555/tv/[SX]VIUTV英
+#EXTINF:-1 ,Unknown_58
+http://rihou.cc:555/tv/[Mt]VIUTV英
+#EXTINF:-1 ,Unknown_60
+http://rihou.cc:555/tv/[Mt]VIUTV壹
+#EXTINF:-1 ,Unknown_61
+http://rihou.cc:555/tv/[Mt]VIUTV贰
+#EXTINF:-1 ,Unknown_62
+http://rihou.cc:555/tv/[Mt]VIUTV粤
+#EXTINF:-1 ,Unknown_63
+http://rihou.cc:555/tv/[SX]VIUTV粤
