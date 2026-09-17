@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 ,Unknown_1
-https://cdn.qd.je/163189.php?id=viu
-#EXTINF:-1 ,Unknown_2
 https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
+#EXTINF:-1 ,Unknown_2
+https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 ,Unknown_3
-http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 ,Unknown_4
-http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 ,Unknown_5
-https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 ,Unknown_6
-https://flv-play.clouda.com/live/viu-KpPuan1QZZRGVviEIXnCPhHAPl5lcylGou268vf92HL4JzDULAFZMnej7IiYgC3P6FGEZdmefzRr0259YM76WYOz.flv
+https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
 #EXTINF:-1 ,Unknown_7
 https://live.astradamy.com/viutv6/index.m3u8
 #EXTINF:-1 ,Unknown_8
@@ -18,82 +18,120 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 ,Unknown_9
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 ,Unknown_10
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 ,Unknown_11
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
+#EXTINF:-1 ,Unknown_11
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 ,Unknown_12
-https://cdn.163189.xyz/163189/viu
+https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 ,Unknown_13
-https://cdn10.163189.xyz/stream/163189/viu/
+http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
 #EXTINF:-1 ,Unknown_14
-https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
+https://cdn.123.rr.kg/163189/viu
 #EXTINF:-1 ,Unknown_15
-https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
+https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 ,Unknown_16
-http://hls.168.us.kg/u/99/master.m3u8
+https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 ,Unknown_17
-http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
 #EXTINF:-1 ,Unknown_18
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
 #EXTINF:-1 ,Unknown_19
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+http://hls.168.us.kg/u/99/master.m3u8
 #EXTINF:-1 ,Unknown_20
-http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:-1 ,Unknown_21
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 ,Unknown_22
-https://live.catvod.com/live.php?id=viu1_twn
+http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
 #EXTINF:-1 ,Unknown_23
-http://smart.cityq.xyz:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 ,Unknown_24
-http://smart.cityq.xyz:8278/viu1_twn/playlist.m3u8?tid=MF1F7819763178197631&ct=20241&tsum=73bf97ade6499317dabf81cdb36740a2
+https://live.catvod.com/live.php?id=viu1_twn
 #EXTINF:-1 ,Unknown_25
-http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+http://smart.cityq.xyz:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 ,Unknown_26
-http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=mc42afe745533&ct=11595591&tsum=7ce9354af84347de2368cc9b85ceb52e
+http://smart.cityq.xyz:8278/viu1_twn/playlist.m3u8?tid=MF1F7819763178197631&ct=20241&tsum=73bf97ade6499317dabf81cdb36740a2
 #EXTINF:-1 ,Unknown_27
-https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 ,Unknown_28
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=mc42afe745533&ct=11595591&tsum=7ce9354af84347de2368cc9b85ceb52e
 #EXTINF:-1 ,Unknown_29
-https://live.catvod.com/iptv.php?id=viutv02
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 ,Unknown_30
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 #EXTINF:-1 ,Unknown_31
-http://smart.cityq.xyz:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+https://live.catvod.com/live.php?id=viusix_twn
 #EXTINF:-1 ,Unknown_32
-https://cdn.qd.je/163189.php?id=viu6
+http://cdn10.123.rr.kg/163189/viu6/
 #EXTINF:-1 ,Unknown_33
-https://cdn10.163189.xyz/stream/163189/viu6/
+https://live.catvod.com/iptv.php?id=viutv02
 #EXTINF:-1 ,Unknown_34
-http://hls.168.us.kg/u/96/master.m3u8
+http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
 #EXTINF:-1 ,Unknown_35
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzg6Psb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6f2f82df%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da914a1a14a93475d62afdf7601d17f09
 #EXTINF:-1 ,Unknown_36
-http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+http://php.jdshipin.com/smt.php?id=viusix_twn
 #EXTINF:-1 ,Unknown_37
-http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
+http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 #EXTINF:-1 ,Unknown_38
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+http://198.16.100.186:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 #EXTINF:-1 ,Unknown_39
-http://rihou.cc:555/tv/[PL]VIUTV粤
+http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 ,Unknown_40
-http://rihou.cc:555/tv/[SX]VIUTV英
+http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9ed42d065b29ec57ca456df8780392ea
 #EXTINF:-1 ,Unknown_41
-http://rihou.cc:555/tv/[Mt]VIUTV英
+http://198.16.100.186:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11595591&tsum=b73934326c8ac48db22836e1128d44a3
 #EXTINF:-1 ,Unknown_42
-http://67.220.71.199:2347/livehttpplay?channel_id=30032
-#EXTINF:-1 ,Unknown_43
-http://rihou.cc:555/tv/[SX]VIUTV粤
+http://fm1077.serv00.net/Smart.php?id=viu1_twn
 #EXTINF:-1 ,Unknown_44
-http://rihou.cc:555/tv/[Mt]VIUTV粤
+http://smart.cityq.xyz:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 #EXTINF:-1 ,Unknown_45
-http://rihou.cc:555/tv/[Mt]VIUTV贰
+https://cdn.qd.je/163189/viu6
 #EXTINF:-1 ,Unknown_46
-http://rihou.cc:555/tv/[Mt]VIUTV壹
+https://10.fast.hidns.vip/163189/viu6/
 #EXTINF:-1 ,Unknown_47
-https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
+https://cdn.qd.je/163189.php?id=viu6
 #EXTINF:-1 ,Unknown_48
+https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/viu6/
+#EXTINF:-1 ,Unknown_50
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 ,Unknown_51
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 ,Unknown_52
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 ,Unknown_53
+http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+#EXTINF:-1 ,Unknown_54
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
+#EXTINF:-1 ,Unknown_55
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 ,Unknown_56
+http://rihou.cc:555/tv/[PL]VIUTV粤
+#EXTINF:-1 ,Unknown_57
+http://rihou.cc:555/tv/[SX]VIUTV英
+#EXTINF:-1 ,Unknown_58
+http://rihou.cc:555/tv/[Mt]VIUTV英
+#EXTINF:-1 ,Unknown_59
+http://67.220.71.199:2347/livehttpplay?channel_id=30032
+#EXTINF:-1 ,Unknown_60
+http://rihou.cc:555/tv/[Mt]VIUTV壹
+#EXTINF:-1 ,Unknown_61
+http://rihou.cc:555/tv/[Mt]VIUTV贰
+#EXTINF:-1 ,Unknown_62
+http://rihou.cc:555/tv/[Mt]VIUTV粤
+#EXTINF:-1 ,Unknown_63
+http://rihou.cc:555/tv/[SX]VIUTV粤
+#EXTINF:-1 ,Unknown_64
+https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
+#EXTINF:-1 ,Unknown_65
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 ,Unknown_66
+http://67.220.71.199:2347/livehttpplay?channel_id=30033
+#EXTINF:-1 ,Unknown_67
+https://flv-play.clouda.com/live/viu-KpPuan1QZZRGVviEIXnCPhHAPl5lcylGou268vf92HL4JzDULAFZMnej7IiYgC3P6FGEZdmefzRr0259YM76WYOz.flv
+#EXTINF:-1 ,Unknown_68
+https://flv-play.clouda.com/live/viu6-D6pO0qnPgYtsKeTdGr82OSkWEl8zBX3XM1t9ch8UV6mBdTtdTak4E430rwZSou1PWPElll7qSdAUc6WQQb3M0gkb.flv
+#EXTINF:-1 ,Unknown_69
 http://67.220.71.199:2347/livehttpplay?channel_id=20131
-
-
-
-
+#EXTINF:-1 ,Unknown_70
+http://67.220.71.199:2347/livehttpplay?channel_id=20132
