@@ -216,8 +216,12 @@ https://cdn.qd.je/163189/jade2
 
 
 
-#EXTINF:-1 tvg-id="翡翠台（全线路）" tvg-name="翡翠台（全线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（全线路）
+#EXTINF:-1 tvg-id="tvb星河" tvg-name="tvb星河" http-user-agent="AptvPlayer-UA" group-title="广东地区",tvb星河）
 https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
+
+
+
+
   #EXTINF:-1 tvg-id="翡翠台（全线路）" tvg-name="翡翠台（全线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（全线路）
 https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct/
   #EXTINF:-1 tvg-id="翡翠台（全线路）" tvg-name="翡翠台（全线路）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（全线路）
