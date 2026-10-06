@@ -60,8 +60,6 @@ https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 group-title="广东地区",翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 group-title="广东地区",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 group-title="广东地区",翡翠台
 https://cdn6.cc.cd/163189/tvbd
 #EXTINF:-1 group-title="广东地区",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
@@ -117,3 +115,5 @@ http://74.91.26.218:82/live/jade.m3u8
 http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 ,11
 http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 ,11
+https://cdn3.indevs.in/stream/tvb/fct4k/
