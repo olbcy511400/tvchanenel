@@ -99,6 +99,7 @@ rule-providers:
 
 
 rules:
+  - RULE-SET,cloudflarecidr,🚀 手动选择
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
@@ -106,13 +107,12 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - RULE-SET,google,🚀 手动选择
-  - RULE-SET,proxy,🚀 手动选择
+  - RULE-SET,google,♻️ 自动选择
+  - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
-  - RULE-SET,telegramcidr,🚀 手动选择
+  - RULE-SET,telegramcidr,♻️ 自动选择
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
-  - RULE-SET,cloudflarecidr,DIRECT
   - MATCH,🐟 漏网之鱼
