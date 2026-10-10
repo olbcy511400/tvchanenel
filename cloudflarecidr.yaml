@@ -114,5 +114,5 @@ rules:
   - RULE-SET,telegramcidr,🚀 手动选择
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
-  - RULE-SET,cloudflarecidr,🚀 手动选择
+  - RULE-SET,cloudflarecidr,DIRECT
   - MATCH,🐟 漏网之鱼
