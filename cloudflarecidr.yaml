@@ -6,6 +6,15 @@ rule-providers:
     path: ./providers/cloudflare.yaml
     interval: 86400
 
+    
+  cloudflareDirect:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/olbcy511400/tvchanenel/refs/heads/main/cloudflareDirect.txt
+    path: ./providers/cloudflareDirect.yaml
+    interval: 86400
+
+
   reject:
     type: http
     behavior: domain
@@ -99,6 +108,7 @@ rule-providers:
 
 
 rules:
+  - RULE-SET,cloudflareDirect,DIRECT
   - RULE-SET,cloudflarecidr,🚀 手动选择
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
