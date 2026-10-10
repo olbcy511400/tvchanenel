@@ -1,3 +1,50 @@
+proxies:
+- name: byteVirtIpv4
+  server: natsg2.bytevirt.net
+  port: 30102
+  client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  network: tcp
+  reality-opts:
+    public-key: 6scw2VYpWZYgXZ7z069n0KIXv1ey8W-ve7age-tbEAg
+    short-id: ''
+  servername: www.bing.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: cc1caa17-27d3-43e8-95ff-f63e77348058
+  xudp: true
+  skip-cert-verify: true
+  tfo: false
+- name: byteVirtIpv6
+  server: '2a12:bec0:16e:3e9::'
+  port: 30102
+  client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  network: tcp
+  reality-opts:
+    public-key: 6scw2VYpWZYgXZ7z069n0KIXv1ey8W-ve7age-tbEAg
+    short-id: ''
+  servername: www.bing.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: cc1caa17-27d3-43e8-95ff-f63e77348058
+  xudp: true
+  skip-cert-verify: true
+  tfo: false
+
+
+proxy-groups:
+- name: cloudflare网站代理
+  type: select
+  proxies:
+  - byteVirtIpv4
+  - byteVirtIpv6
+
+
 rule-providers:
   cloudflarecidr:
     type: http
