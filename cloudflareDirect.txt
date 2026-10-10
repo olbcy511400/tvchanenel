@@ -1,2 +1,3 @@
 payload:
   - '+.cdn3.indevs.in'
+  - '+.cloudflare.com'
