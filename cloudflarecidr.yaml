@@ -6,8 +6,6 @@ rule-providers:
     path: ./providers/cloudflare.yaml
     interval: 86400
 
-    
+
 rules:
-  - RULE-SET,cloudflarecidr,PROXY
-
-
+  - RULE-SET,cloudflarecidr,DIRECT
