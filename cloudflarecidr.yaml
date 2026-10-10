@@ -1,0 +1,11 @@
+rule-providers:
+  cloudflarecidr:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/olbcy511400/tvchanenel/refs/heads/main/cloudflare.txt
+    path: ./providers/cloudflare.yaml
+    interval: 86400
+
+
+rules:
+  - RULE-SET,cloudflarecidr,DIRECT
