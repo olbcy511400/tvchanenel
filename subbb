@@ -1,0 +1,203 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - {name: byteVirtIpv4, server: natsg2.bytevirt.net, port: 30102, client-fingerprint: firefox, encryption: none, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: 6scw2VYpWZYgXZ7z069n0KIXv1ey8W-ve7age-tbEAg, short-id: ""}, servername: www.bing.com, tls: true, type: vless, udp: true, uuid: cc1caa17-27d3-43e8-95ff-f63e77348058, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: byteVirtIpv6, server: "2a12:bec0:16e:3e9::", port: 30102, client-fingerprint: firefox, encryption: none, flow: xtls-rprx-vision, network: tcp, reality-opts: {public-key: 6scw2VYpWZYgXZ7z069n0KIXv1ey8W-ve7age-tbEAg, short-id: ""}, servername: www.bing.com, tls: true, type: vless, udp: true, uuid: cc1caa17-27d3-43e8-95ff-f63e77348058, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK, server: 162.159.135.220, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 2, server: 172.67.67.249, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 3, server: 172.67.74.233, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 4, server: 104.20.30.75, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 5, server: 104.20.28.209, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 6, server: 162.159.149.237, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 7, server: 172.67.70.78, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 8, server: 162.159.146.14, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 9, server: 162.159.132.3, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 10, server: 162.159.141.2, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 11, server: 162.159.148.166, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 12, server: 172.67.75.76, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 13, server: 172.67.73.1, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 14, server: 162.159.145.9, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 15, server: 172.67.67.249, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 16, server: 172.67.79.67, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Linux; Android 7.0; SM-G610M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 17, server: 172.67.70.78, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX3 Build/HUAWEIANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 18, server: 172.67.79.67, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 19, server: 162.159.152.206, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 20, server: 172.67.75.76, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 21, server: 162.159.150.86, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 22, server: 172.67.71.105, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 23, server: 162.159.137.127, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 24, server: 172.67.77.154, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 25, server: 104.20.19.1, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 26, server: 104.20.19.1, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 27, server: 104.26.8.77, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 28, server: 104.20.30.75, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 29, server: 172.67.74.233, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 30, server: 162.159.146.14, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 31, server: 162.159.137.127, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 32, server: 162.159.135.220, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 33, server: 162.159.157.90, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 34, server: 162.159.153.117, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 35, server: 162.159.138.200, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 36, server: 162.159.157.90, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 37, server: 172.67.73.1, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 38, server: 104.26.8.77, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 39, server: 162.159.145.9, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 40, server: 172.67.77.154, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 41, server: 162.159.132.3, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 42, server: 162.159.152.206, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 43, server: 104.20.28.209, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 44, server: 162.159.150.86, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 45, server: 172.67.71.105, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 46, server: 162.159.153.117, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 47, server: 172.67.65.77, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 48, server: 162.159.158.68, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 49, server: 162.159.148.166, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 50, server: 162.159.149.237, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 51, server: 172.67.65.77, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 52, server: 162.159.158.68, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 53, server: 162.159.138.200, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+  - {name: 🇭🇰 HKG-HK 54, server: 162.159.141.2, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 55, server: 172.65.227.158, port: 443, client-fingerprint: randomized, encryption: none, network: ws, servername: cool-art-2888.603712939.xyz, tls: true, type: vless, udp: true, uuid: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, ws-opts: {headers: {Host: cool-art-2888.603712939.xyz, User-Agent: "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36"}, path: "/?ed=2560"}, xudp: true, skip-cert-verify: true, tfo: false}
+  - {name: 🇭🇰 HKG-HK 56, server: 172.65.227.158, port: 443, client-fingerprint: randomized, network: ws, password: 3b5f4d7f-0d5c-40ed-bb01-968716bbf9de, skip-cert-verify: true, sni: cool-art-2888.603712939.xyz, type: trojan, udp: true, ws-opts: {headers: {User-Agent: "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36"}, path: "/?ed=2560"}, tfo: false}
+proxy-groups:
+  - name: 🚀 手动选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - byteVirtIpv4
+      - byteVirtIpv6
+      - 🇭🇰 HKG-HK
+      - 🇭🇰 HKG-HK 2
+      - 🇭🇰 HKG-HK 3
+      - 🇭🇰 HKG-HK 4
+      - 🇭🇰 HKG-HK 5
+      - 🇭🇰 HKG-HK 6
+      - 🇭🇰 HKG-HK 7
+      - 🇭🇰 HKG-HK 8
+      - 🇭🇰 HKG-HK 9
+      - 🇭🇰 HKG-HK 10
+      - 🇭🇰 HKG-HK 11
+      - 🇭🇰 HKG-HK 12
+      - 🇭🇰 HKG-HK 13
+      - 🇭🇰 HKG-HK 14
+      - 🇭🇰 HKG-HK 15
+      - 🇭🇰 HKG-HK 16
+      - 🇭🇰 HKG-HK 17
+      - 🇭🇰 HKG-HK 18
+      - 🇭🇰 HKG-HK 19
+      - 🇭🇰 HKG-HK 20
+      - 🇭🇰 HKG-HK 21
+      - 🇭🇰 HKG-HK 22
+      - 🇭🇰 HKG-HK 23
+      - 🇭🇰 HKG-HK 24
+      - 🇭🇰 HKG-HK 25
+      - 🇭🇰 HKG-HK 26
+      - 🇭🇰 HKG-HK 27
+      - 🇭🇰 HKG-HK 28
+      - 🇭🇰 HKG-HK 29
+      - 🇭🇰 HKG-HK 30
+      - 🇭🇰 HKG-HK 31
+      - 🇭🇰 HKG-HK 32
+      - 🇭🇰 HKG-HK 33
+      - 🇭🇰 HKG-HK 34
+      - 🇭🇰 HKG-HK 35
+      - 🇭🇰 HKG-HK 36
+      - 🇭🇰 HKG-HK 37
+      - 🇭🇰 HKG-HK 38
+      - 🇭🇰 HKG-HK 39
+      - 🇭🇰 HKG-HK 40
+      - 🇭🇰 HKG-HK 41
+      - 🇭🇰 HKG-HK 42
+      - 🇭🇰 HKG-HK 43
+      - 🇭🇰 HKG-HK 44
+      - 🇭🇰 HKG-HK 45
+      - 🇭🇰 HKG-HK 46
+      - 🇭🇰 HKG-HK 47
+      - 🇭🇰 HKG-HK 48
+      - 🇭🇰 HKG-HK 49
+      - 🇭🇰 HKG-HK 50
+      - 🇭🇰 HKG-HK 51
+      - 🇭🇰 HKG-HK 52
+      - 🇭🇰 HKG-HK 53
+      - 🇭🇰 HKG-HK 54
+      - 🇭🇰 HKG-HK 55
+      - 🇭🇰 HKG-HK 56
+  - name: ♻️ 自动选择
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - byteVirtIpv4
+      - byteVirtIpv6
+      - 🇭🇰 HKG-HK
+      - 🇭🇰 HKG-HK 2
+      - 🇭🇰 HKG-HK 3
+      - 🇭🇰 HKG-HK 4
+      - 🇭🇰 HKG-HK 5
+      - 🇭🇰 HKG-HK 6
+      - 🇭🇰 HKG-HK 7
+      - 🇭🇰 HKG-HK 8
+      - 🇭🇰 HKG-HK 9
+      - 🇭🇰 HKG-HK 10
+      - 🇭🇰 HKG-HK 11
+      - 🇭🇰 HKG-HK 12
+      - 🇭🇰 HKG-HK 13
+      - 🇭🇰 HKG-HK 14
+      - 🇭🇰 HKG-HK 15
+      - 🇭🇰 HKG-HK 16
+      - 🇭🇰 HKG-HK 17
+      - 🇭🇰 HKG-HK 18
+      - 🇭🇰 HKG-HK 19
+      - 🇭🇰 HKG-HK 20
+      - 🇭🇰 HKG-HK 21
+      - 🇭🇰 HKG-HK 22
+      - 🇭🇰 HKG-HK 23
+      - 🇭🇰 HKG-HK 24
+      - 🇭🇰 HKG-HK 25
+      - 🇭🇰 HKG-HK 26
+      - 🇭🇰 HKG-HK 27
+      - 🇭🇰 HKG-HK 28
+      - 🇭🇰 HKG-HK 29
+      - 🇭🇰 HKG-HK 30
+      - 🇭🇰 HKG-HK 31
+      - 🇭🇰 HKG-HK 32
+      - 🇭🇰 HKG-HK 33
+      - 🇭🇰 HKG-HK 34
+      - 🇭🇰 HKG-HK 35
+      - 🇭🇰 HKG-HK 36
+      - 🇭🇰 HKG-HK 37
+      - 🇭🇰 HKG-HK 38
+      - 🇭🇰 HKG-HK 39
+      - 🇭🇰 HKG-HK 40
+      - 🇭🇰 HKG-HK 41
+      - 🇭🇰 HKG-HK 42
+      - 🇭🇰 HKG-HK 43
+      - 🇭🇰 HKG-HK 44
+      - 🇭🇰 HKG-HK 45
+      - 🇭🇰 HKG-HK 46
+      - 🇭🇰 HKG-HK 47
+      - 🇭🇰 HKG-HK 48
+      - 🇭🇰 HKG-HK 49
+      - 🇭🇰 HKG-HK 50
+      - 🇭🇰 HKG-HK 51
+      - 🇭🇰 HKG-HK 52
+      - 🇭🇰 HKG-HK 53
+      - 🇭🇰 HKG-HK 54
+      - 🇭🇰 HKG-HK 55
+      - 🇭🇰 HKG-HK 56
+  - name: 🎯 全球直连
+    type: select
+    url: https://www.gstatic.com/generate_204
+    proxies:
+      - DIRECT
+rules:
+  - GEOSITE,gfw,🚀 手动选择
+  - GEOIP,telegram,🚀 手动选择,no-resolve
+  - GEOIP,facebook,🚀 手动选择,no-resolve
+  - GEOIP,twitter,🚀 手动选择,no-resolve
+  - MATCH,🎯 全球直连-
