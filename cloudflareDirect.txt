@@ -2,3 +2,4 @@ payload:
   - '+.cdn3.indevs.in'
   - '+.cloudflare.com'
   - '+.fast.hidns.vip'
+  - '+.php.jdshipin.com'
