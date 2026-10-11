@@ -132,7 +132,29 @@ http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
 https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
+http://cdn5.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn1.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn2.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn3.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn4.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn6.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn7.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn8.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn9.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn10.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn11.163189.xyz/stream/tvb/fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://cdn12.163189.xyz/stream/tvb/fct-
 
 #EXTINF:-1 tvg-id="翡翠台（vps直连）" tvg-name="翡翠台（vps直连）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（vps直连）
 https://cdn3.indevs.in/stream/tvb/fct/
