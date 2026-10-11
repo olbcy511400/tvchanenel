@@ -132,7 +132,35 @@ http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
 https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台
 http://cdn5.163189.xyz/stream/tvb/fct/
+
+             
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://221.179.116.213:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip） 
+http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip） 
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip） 
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台（国内Ip）" tvg-name="翡翠台（国内Ip）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（国内Ip）
+http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 
 #EXTINF:-1 tvg-id="翡翠台（vps直连）" tvg-name="翡翠台（vps直连）" http-user-agent="AptvPlayer-UA" group-title="广东地区",翡翠台（vps直连）
 https://cdn3.indevs.in/stream/tvb/fct/
