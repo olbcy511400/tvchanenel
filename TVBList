@@ -41,7 +41,7 @@ https://cdn3.indevs.in/stream/tvb/fct/
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="广东地区",翡翠台
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东地区",翡翠台
+#EXTINF:-1 group-title="广东地区",翡翠台    
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="广东地区",翡翠台
 http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
