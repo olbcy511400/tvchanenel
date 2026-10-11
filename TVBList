@@ -2,15 +2,39 @@
 #EXTINF:-1 group-title="广东地区",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="广东地区",翡翠台
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="广东地区",翡翠台
 https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 group-title="广东地区",翡翠台
 https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://221.179.116.213:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="广东地区",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="广东地区",翡翠台
 https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 group-title="广东地区",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="广东地区",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 group-title="广东地区",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 ,Unknown_9
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+#EXTINF:-1 ,Unknown_21
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 ,Unknown_24
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 ,Unknown_159
+http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 group-title="广东地区",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="广东地区",翡翠台
