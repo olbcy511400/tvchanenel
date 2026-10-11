@@ -2,3 +2,4 @@ payload:
   - '+.v2fly.org'
   - '+.zhuiyun.shop'
   - '+.clashverge.net'
+  - '+.v2ex.com'
