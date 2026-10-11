@@ -1,2 +1,2 @@
 payload:
-  - '+.exsamplexxxx.com'
+  - '+.v2fly.org'
