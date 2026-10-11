@@ -3,3 +3,5 @@ payload:
   - '+.zhuiyun.shop'
   - '+.clashverge.net'
   - '+.v2ex.com'
+  - '+.cdn.qd.je'
+
