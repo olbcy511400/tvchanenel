@@ -1,2 +1,2 @@
 payload:
-  - '+.cdn3.??????.in'
+  - '+.iptv.4666888.xyz'
