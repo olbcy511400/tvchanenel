@@ -5,9 +5,9 @@ log:
 servers:
     - exec: main_sequence
     listeners:
-        - addr: 127.0.0.1:5533
+        - addr: 127.0.0.1:53
           protocol: udp
-        - addr: 127.0.0.1:5533
+        - addr: 127.0.0.1:53
           protocol: tcp
 plugins:
 
