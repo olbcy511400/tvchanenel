@@ -10,5 +10,6 @@ payload:
   - '+.sis001.com'
   - '+.cloudflare.net'
   - '+.cloudflare.com'
+  - '+.imgccc.com'
 
 
