@@ -25,6 +25,9 @@ plugins:
     type: fast_forward
     args:
       upstream:
+        - addr: "https://dns.google/dns-query"
+          idle_timeout: 30
+          trusted: true
         - addr: "udp://114.114.114.114" # 114 公共明文 UDP DNS
         - addr: "udp://223.5.5.5" # 阿里云的明文 UDP DNS
         - addr: "https://dns.alidns.com/dns-query" # 阿里的 DoH 加密 DNS
@@ -101,5 +104,5 @@ plugins:
         - if: response_CNAME_Cloudflare || response_IP_Cloudflare # 如果域名解析结果为 Cloudflare CDN 地址
           exec:
             - blackhole_Cloudflare # 则返回指定的 自选 IP 
-          else_exec: # 否则，使用此分支流水线。
-            - _new_empty_response
+          # else_exec: # 否则，使用此分支流水线。
+         #   - _new_empty_response
