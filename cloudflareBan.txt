@@ -8,3 +8,8 @@ payload:
   - '+.sparko2.io'
   - '+.sehuatang.net'
   - '+.sis001.com'
+  - '+.cloudflare.net'
+  - '+.cloudflare.com'
+  - '+.imgccc.com'
+
+
