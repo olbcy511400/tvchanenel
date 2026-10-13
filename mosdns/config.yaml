@@ -25,11 +25,11 @@ plugins:
     type: fast_forward
     args:
       upstream:
+        - addr: "udp://114.114.114.114" # 114 公共明文 UDP DNS
+        - addr: "udp://223.5.5.5" # 阿里云的明文 UDP DNS
         - addr: "https://dns.google/dns-query"
           idle_timeout: 30
           trusted: true
-        - addr: "udp://114.114.114.114" # 114 公共明文 UDP DNS
-        - addr: "udp://223.5.5.5" # 阿里云的明文 UDP DNS
         - addr: "https://dns.alidns.com/dns-query" # 阿里的 DoH 加密 DNS
           idle_timeout: 30 # 连接复用空连接保持时间，单位: 秒
           trusted: true # 是否是可信服务器
