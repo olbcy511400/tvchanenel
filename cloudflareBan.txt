@@ -11,5 +11,7 @@ payload:
   - '+.cloudflare.net'
   - '+.cloudflare.com'
   - '+.imgccc.com'
+  - '+.jdshipin.com'
+
 
 
