@@ -1,6 +1,6 @@
 log:
   level: info # 日志级别，可选 debug 、 info 、 warn 、 error 。默认 info
-  file: "/tmp/mosdns.log" # 留空代表不输出日志
+  file: "./tmp/mosdns.log" # 留空代表不输出日志
   
 servers:
     - exec: main_sequence
@@ -77,8 +77,18 @@ plugins:
   - tag: blackhole_Cloudflare
     type: blackhole
     args:
-      ipv4: "162.159.158.68" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
+      ipv4: "172.67.75.76                    " # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
 #      ipv6: "xxxx:xxxx:xxxx:xxxx" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
+
+
+  - tag: blackhole_empty
+    type: blackhole
+    args:
+      rcode: 0        # 生成`Rcode`为该值的应答。如果负数，则将应答设为空值(丢弃已存在的应答)。
+
+
+
+
 
 # 将多个插件组合成流水线
   - tag: main_sequence
@@ -92,4 +102,4 @@ plugins:
           exec:
             - blackhole_Cloudflare # 则返回指定的 自选 IP 
           else_exec: # 否则，使用此分支流水线。
-            - _new_empty_response
+            - blackhole_empty
