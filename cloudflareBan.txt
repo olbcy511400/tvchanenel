@@ -6,3 +6,4 @@ payload:
   - '+.cdn.qd.je'
   - '+.dy2018.com'
   - '+.sparko2.io'
+  - '+.cdn6.cc.cd'
