@@ -1,1 +1,92 @@
+log:
+  level: info # 日志级别，可选 debug 、 info 、 warn 、 error 。默认 info
+  file: "/tmp/mosdns.log" # 留空代表不输出日志
+  
+servers:
+    - exec: main_sequence
+    listeners:
+        - addr: 127.0.0.1:5533
+          protocol: udp
+        - addr: 127.0.0.1:5533
+          protocol: tcp
+plugins:
 
+# 缓存
+  - tag: lazy_cache  
+    type: cache
+    args:
+      size: 1024 # 缓存条数
+      lazy_cache_ttl: 86400 # 缓存时间
+      lazy_cache_reply_ttl: 30 # 返回过期应答的 TTL
+
+
+# 转发到上游 DNS
+  - tag: forward_local
+    type: fast_forward
+    args:
+      upstream:
+        - addr: "udp://114.114.114.114" # 114 公共明文 UDP DNS
+        - addr: "udp://223.5.5.5" # 阿里云的明文 UDP DNS
+        - addr: "https://dns.alidns.com/dns-query" # 阿里的 DoH 加密 DNS
+          idle_timeout: 30 # 连接复用空连接保持时间，单位: 秒
+          trusted: true # 是否是可信服务器
+        - addr: "https://doh.pub/dns-query" # 腾讯的 DoH 加密 DNS
+          idle_timeout: 30
+          trusted: true
+
+
+# 匹配 Cloudflare CDN IP 地址
+  - tag: response_IP_Cloudflare
+    type: response_matcher
+    args:
+      ip:
+        - "103.21.244.0/22"
+        - "103.22.200.0/22"
+        - "103.31.4.0/22"
+        - "104.16.0.0/13"
+        - "104.24.0.0/14"
+        - "108.162.192.0/18"
+        - "131.0.72.0/22"
+        - "141.101.64.0/18"
+        - "162.158.0.0/15"
+        - "172.64.0.0/13"
+        - "173.245.48.0/20"
+        - "188.114.96.0/20"
+        - "190.93.240.0/20"
+        - "197.234.240.0/22"
+        - "198.41.128.0/17"
+        - "2400:cb00::/32"
+        - "2606:4700::/32"
+        - "2803:f800::/32"
+        - "2405:b500::/32"
+        - "2405:8100::/32"
+        - "2a06:98c0::/29"
+        - "2c0f:f248::/32"
+
+
+
+# 匹配 Cloudflare CDN CNAME
+  - tag: response_CNAME_Cloudflare
+    type: response_matcher
+    args:
+      cname:
+        - "domain:cdn.cloudflare.net"
+
+
+# 修改 IP 为自选 IP
+  - tag: blackhole_Cloudflare
+    type: blackhole
+    args:
+      ipv4: "162.159.158.68" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
+#      ipv6: "xxxx:xxxx:xxxx:xxxx" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
+
+# 将多个插件组合成流水线
+  - tag: main_sequence
+    type: sequence
+    args:
+      exec:
+        - lazy_cache # 匹配缓存
+        - forward_local               # 请求转发至上游 DNS
+        - if: response_CNAME_Cloudflare || response_IP_Cloudflare # 如果域名解析结果为 Cloudflare CDN 地址
+          exec:
+            - blackhole_Cloudflare # 则返回指定的 自选 IP 
