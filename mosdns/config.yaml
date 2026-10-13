@@ -77,8 +77,8 @@ plugins:
   - tag: blackhole_Cloudflare
     type: blackhole
     args:
-      ipv4: "172.67.75.76" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
-      ipv6: "2400:cb00:2049:13c1:f47d:c9e7:acdf:b8cc" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
+      ipv4: "104.26.3.61" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
+      ipv6: "2803:f800:50:dc:9fbd:8d58:5c3e:8ac8" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
 
 
   - tag: blackhole_empty
@@ -102,4 +102,4 @@ plugins:
           exec:
             - blackhole_Cloudflare # 则返回指定的 自选 IP 
          # else_exec: # 否则，使用此分支流水线。
-            #- blackhole_empty
+            - _new_empty_response
