@@ -1,4 +1,4 @@
-log:
+-log:
   level: info # 日志级别，可选 debug 、 info 、 warn 、 error 。默认 info
   file: "./tmp/mosdns.log" # 留空代表不输出日志
   
@@ -77,7 +77,7 @@ plugins:
   - tag: blackhole_Cloudflare
     type: blackhole
     args:
-      ipv4: "172.67.75.76                    " # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
+      ipv4: "172.67.75.76" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
 #      ipv6: "xxxx:xxxx:xxxx:xxxx" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
 
 
