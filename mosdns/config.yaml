@@ -80,7 +80,7 @@ plugins:
   - tag: blackhole_Cloudflare
     type: blackhole
     args:
-          ipv4: "104.29.111.39" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
+        ipv4: "104.29.111.39" # 如果请求类型是 A，则生成 IP 为该地址的应答。请修改为自选 IPv4
       #ipv6: "2a06:98c1:3102:b34c:f61d:a7c2:8851:5824" # 如果请求类型是 AAAA，则生成 IP 为该地址的应答。请修改为自选 IPv6，如果要返回 IPv6 则请移除行首第一个井号
 
 
