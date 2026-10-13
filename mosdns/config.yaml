@@ -1,4 +1,4 @@
--log:
+log:
   level: info # 日志级别，可选 debug 、 info 、 warn 、 error 。默认 info
   file: "./tmp/mosdns.log" # 留空代表不输出日志
   
