@@ -13,6 +13,8 @@ payload:
   - '+.jdshipin.com'
   - '+.imgccc.com'
   - '+.v2rayssr.com'
+  - '+.ermao.net'
+
 
 
 
