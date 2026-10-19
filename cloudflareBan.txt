@@ -17,7 +17,7 @@ payload:
   - '+.gamer520.com'
   - '+.v2ray.com'
   - '+.bt.iaaaaa.com'
-  - '+..haikuoshijie.com'
+  - '+.haikuoshijie.com'
 
 
 
