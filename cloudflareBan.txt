@@ -15,7 +15,7 @@ payload:
   - '+.v2rayssr.com'
   - '+.ermao.net'
   - '+.gamer520.com'
-  - '+.v2ray.com
+  - '+.v2ray.com'
 
 
 
