@@ -14,6 +14,8 @@ payload:
   - '+.imgccc.com'
   - '+.v2rayssr.com'
   - '+.ermao.net'
+  - '+.gamer520.com'
+
 
 
 
