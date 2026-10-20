@@ -18,7 +18,7 @@ payload:
   - '+.v2ray.com'
   - '+.bt.iaaaaa.com'
   - '+.haikuoshijie.com'
-
+  - '+.flysheep6.com'
 
 
 
