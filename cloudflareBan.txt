@@ -20,6 +20,7 @@ payload:
   - '+.haikuoshijie.com'
   - '+.flysheep6.com'
   - '+.gfans.cc'
+  - '+.7chaowan.com'
 
 
 
