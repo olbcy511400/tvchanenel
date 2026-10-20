@@ -19,6 +19,7 @@ payload:
   - '+.bt.iaaaaa.com'
   - '+.haikuoshijie.com'
   - '+.flysheep6.com'
+  - '+.gfans.cc'
 
 
 
