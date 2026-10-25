@@ -21,6 +21,7 @@ payload:
   - '+.flysheep6.com'
   - '+.gfans.cc'
   - '+.7chaowan.com'
+  - '+.e-hentai.org'
 
 
 
