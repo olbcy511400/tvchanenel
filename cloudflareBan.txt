@@ -22,7 +22,3 @@ payload:
   - '+.gfans.cc'
   - '+.7chaowan.com'
   - '+.e-hentai.org'
-  - '+.fodownloader.com'
-
-
-
