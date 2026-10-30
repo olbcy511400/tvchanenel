@@ -478,6 +478,16 @@ https://10.fast.hidns.vip/163189/viu6/
 https://cdn.qd.je/163189.php?id=viu6
 
 
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
+https://cdn.qd.je/163189/hoy2
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
+https://fast.hidns.vip/163189/hoy78
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
+https://fast.hidns.vip/163189/hoy
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
+https://cdn.qd.je/163189.php?id=hoy2
 
 
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" http-user-agent="AptvPlayer-UA" group-title="广东地区",NOW爆谷台
