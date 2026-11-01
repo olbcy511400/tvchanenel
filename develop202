@@ -436,16 +436,13 @@ https://stream1.freetv.fun/ed060b82f0c01e424bfccb36eb80cdf440e8cb562b34e914b28f3
 https://stream1.freetv.fun/e6fd2d09a19cbeb78145f445436d44d9ec43c79a9ce2ffcdd4116a5c8bafdc6f.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="广东地区" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://101.35.240.114:88/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
-https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.ctv
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
-http://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
-https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus 
-https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.ctv
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TVB SUPER" tvg-name="TVB SUPER" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB SUPER 
 http://67.220.71.199:2347/livehttpplay?channel_id=13027
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="广东地区",千禧经典台
@@ -458,6 +455,22 @@ https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" http-user-agent="AptvPlayer-UA" group-title="广东地区",千禧经典台
 http://74.91.26.218:82/live/tvbjd.m3u8
+
+
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://cdn3.indevs.in/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://10.fast.hidns.vip/163189/tvbp/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://cdn.qd.je/163189/tvbp
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://cdn.qd.je/163189/tvbpvtt
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" http-user-agent="AptvPlayer-UA" group-title="广东地区",TVB Plus
+https://cdn.qd.je/163189/tvbp2
 
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" http-user-agent="AptvPlayer-UA" group-title="广东地区",ViuTV
