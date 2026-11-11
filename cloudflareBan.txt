@@ -24,3 +24,5 @@ payload:
   - '+.e-hentai.org'
   - '+.nbgdsygs.com'
   - '+.cc.cd'
+  - '+.123.rr.kg'
+
