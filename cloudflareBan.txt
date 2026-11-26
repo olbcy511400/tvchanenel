@@ -25,4 +25,6 @@ payload:
   - '+.nbgdsygs.com'
   - '+.cc.cd'
   - '+.123.rr.kg'
+  - '+.img.odbgo.com'
+
 
